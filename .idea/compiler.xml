@@ -9,5 +9,8 @@
         <module name="Patateman" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Patateman" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
