@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2dcbef97-e48e-45d4-b6d6-8359ad7d0442" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Patateman.iml" afterDir="false" />
+    <list default="true" id="2dcbef97-e48e-45d4-b6d6-8359ad7d0442" name="Changes" comment="set la scène">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/assets/images/Patateman.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_11_0_2.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patateman.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Patateman.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/HelloApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,11 +38,38 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/json-simple-1.1.jar" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\leoma\Desktop\Patateman\Patateman\src\main\java\com\noble_coding\patateman\assets\images" />
+      <recent name="C:\Users\leoma\Desktop\Patateman\Patateman\src\main\java\com\noble_coding\patateman" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloApplication">
     <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.noble_coding.patateman.HelloApplication" />
+      <module name="Patateman" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.noble_coding.patateman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.noble_coding.patateman.Main" />
       <module name="Patateman" />
       <extension name="coverage">
         <pattern>
@@ -67,6 +84,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -78,8 +96,29 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1647251721908</updated>
-      <workItem from="1647251723162" duration="441000" />
+      <workItem from="1647251723162" duration="998000" />
+      <workItem from="1647253291455" duration="408000" />
+      <workItem from="1647353391133" duration="4165000" />
+      <workItem from="1647360322874" duration="884000" />
+      <workItem from="1647937472942" duration="9000" />
+      <workItem from="1648230281766" duration="3803000" />
+      <workItem from="1648453236932" duration="6836000" />
     </task>
+    <task id="LOCAL-00001" summary="set la scène">
+      <created>1647252211374</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1647252211374</updated>
+    </task>
+    <task id="LOCAL-00002" summary="set la scène">
+      <created>1647252266432</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1647252266432</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,5 +134,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="set la scène" />
+    <option name="LAST_COMMIT_MESSAGE" value="set la scène" />
   </component>
 </project>
