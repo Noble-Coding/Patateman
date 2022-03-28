@@ -11,13 +11,23 @@ public class Floor {
     private int height;
     private Collection<FloorListener> floorListeners = new ArrayList<>();
     private boolean isGameOver = false;
+    private int player;
 
-    public Floor(int width, int height, int nrOfEnemies) {
+    public Floor() {
         this.width = width;
         this.height = height;
         this.tiles = new FloorTile[height][width];
+        CharacterMvt player;
         placeBreakable();
         placeUnbreakableAndGrass();
+    }
+
+    public int getPlayer() {
+        return player;
+    }
+
+    public void setPlayer(int player) {
+        this.player = player;
     }
 
     public FloorTile getFloorTile(int rowIndex, int colIndex) {

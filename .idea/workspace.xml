@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="678270cd-674e-4989-8938-ad835f3d6e1c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Green-Cap-Character-16x18.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Vegetables.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apiguardian_apiguardian_api_1_1_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_mac_11_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_base_win_11_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_mac_11_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_controls_win_11_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_mac_11_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_fxml_win_11_0_2.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_mac_11_0_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_openjfx_javafx_graphics_win_11_0_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/Character.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/CharacterMvt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/Legumes.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Patateman.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Patateman.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/Floor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/Floor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/noble_coding/patateman/HelloApplication.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,8 +21,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaFXApplication" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
