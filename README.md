@@ -29,18 +29,18 @@ JavaFX avec un JDK 17 (peut marcher avec un JDK 11 mais sans garantie).
 
 ## Commandes
 
-**David ?**
+Les commandes sont classiques avec zqsd pour les déplacements et la touche espace pour les bombes avec la touche échappe pour revenir au menu pendant la partie.
 
 ## Gameplay
 
 Le gameplay se décompose en plusieur point :
 
-- Le personnage qui peu bouger et mettre des bombe qui détruisse les casses brick et tue les monstres
-- Les monstres qui peuve bouger et tuer le joueur 
-- Des power up sont disposer sur la map et aporte des bonus ( a vous de les decouvir)
-- Il y a trois niveau différent
-- Et le reste... a vous de le découvrir
-- ps: on a tentez de mettre des musique (ce fut un échec)
+- Le personnage qui peu bouger et mettre des bombes qui détruissent les casses brick et tuent les monstres.
+- Les monstres qui peuvent bouger et tuer le joueur .
+- Des power up sont disposés sur la map et apportent des bonus ( à vous de les découvrir)
+- Il y a 2 niveaux différents
+- Et le reste... à vous de le découvrir
+- ps: on a tenté de mettre des musiqueq (ce fût un échec)
 
 ## Status du projet
 
