@@ -37,7 +37,7 @@ public class menuEnJeux extends FXGLMenu {
         var menuBox = new VBox(
 
                 new BoutonMenu("Reprendre la partie", 20, () -> fireResume()),
-                new BoutonMenu("Allez au score", 20, () -> fireExitToMainMenu()),
+                new BoutonMenu("Voir les scores", 20, () -> fireExitToMainMenu()),
                 new BoutonMenu("Menu", 20, () -> fireExitToMainMenu()),
                 new BoutonMenu("Quitter", 20, () -> fireExit())
 

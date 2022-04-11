@@ -87,7 +87,7 @@ public class GameApp extends GameApplication {
             protected void onActionEnd() {
                 getPlayerComponent().stop();
             }
-        }, KeyCode.Z);
+        }, KeyCode.W);
 
         getInput().addAction(new UserAction("Move Down") {
             @Override
@@ -111,7 +111,7 @@ public class GameApp extends GameApplication {
             protected void onActionEnd() {
                 getPlayerComponent().stop();
             }
-        }, KeyCode.Q);
+        }, KeyCode.A);
 
         getInput().addAction(new UserAction("Bouger à droite") {
             @Override

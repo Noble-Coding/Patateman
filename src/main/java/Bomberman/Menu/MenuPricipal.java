@@ -21,7 +21,7 @@ public class MenuPricipal extends FXGLMenu {
 
         var menuBox = new VBox(
                 new BoutonMenu("Nouvelle partie", 27, () -> newGame()),
-                new BoutonMenu("Contrôles", 27, () -> instruct()),
+                new BoutonMenu("Controles", 27, () -> instruct()),
                 new BoutonMenu("Quitter", 27, () -> fireExit())
         );
 
