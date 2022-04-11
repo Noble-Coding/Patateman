@@ -33,14 +33,14 @@ Les commandes sont classiques avec zqsd pour les déplacements et la touche espa
 
 ## Gameplay
 
-Le gameplay se décompose en plusieur point :
+Le gameplay se décompose en plusieurs points :
 
-- Le personnage qui peu bouger et mettre des bombes qui détruissent les casses brick et tuent les monstres.
+- Le personnage qui peut bouger et mettre des bombes qui détruisent les casses brick et tuent les monstres.
 - Les monstres qui peuvent bouger et tuer le joueur .
-- Des power up sont disposés sur la map et apportent des bonus ( à vous de les découvrir)
+- Des powers up sont disposés sur la map et apportent des bonus ( à vous de les découvrir)
 - Il y a 2 niveaux différents
 - Et le reste... à vous de le découvrir
-- ps: on a tenté de mettre des musiqueq (ce fût un échec)
+- ps: on a tenté de mettre des musiques (ce fût un échec)
 
 ## Status du projet
 
