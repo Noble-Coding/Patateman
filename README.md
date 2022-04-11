@@ -25,7 +25,7 @@ JavaFX avec un JDK 17 (peut marcher avec un JDK 11 mais sans garantie).
 
 ## Installation
 
-**Alex ?**
+**Nico, m'en occupe après avoir sauvé mon couple**
 
 ## Commandes
 
