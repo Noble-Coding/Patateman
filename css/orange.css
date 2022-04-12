@@ -7556,3 +7556,8 @@ footer a {
 @media screen and (max-width: 768px) {
   .switcher-wrap {
     display: none; } }
+
+.hover-cards:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 0px 5px 5px rgba(0,0,0,0.26);
+}
