@@ -23,13 +23,22 @@ JavaFX avec un JDK 17 (peut marcher avec un JDK 11 mais sans garantie).
 
 **Visuels**
 
+## Prérequis
+
+- IntelliJ IDEA ;
+- JDK 17
+
 ## Installation
 
-**Nico, m'en occupe après avoir sauvé mon couple**
+-  `git clone git@github.com:Noble-Coding/Patateman.git`
+-  Build le projet
+-  Le lancer (le main est `GameApp`)
 
 ## Commandes
 
-Les commandes sont classiques avec zqsd pour les déplacements et la touche espace pour les bombes avec la touche échappe pour revenir au menu pendant la partie.
+- **Z, Q, S, D** : avancer, aller à gauche, reculer, aller à droite ;
+- **ESPACE** : Poser une bombe ;
+- **Echap** : Menu pause
 
 ## Gameplay
 
@@ -48,13 +57,9 @@ Le projet est opérationnel, cependant la plupart des classes et des fichiers cr
 
 ## Problèmes rencontrés
 
-- Cras ultricies ligula sed magna dictum porta.
-- Donec rutrum congue leo eget malesuada.
-
-## Roadmap
-
-- Donec rutrum congue leo eget malesuada.
-- <u>Cras ultricies ligula sed magna dictum porta.</u>
+- On a tenté de mettre des musiques;
+- La page de score ne s'affiche pas;
+- L'image du menu principal n'est pas bien centré.
 
 ## License
 
